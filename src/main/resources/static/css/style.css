@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.register, .login {
+	width: 45%;
+	margin: 20px;
+	display: inline-block;
+	vertical-align: top;
+	border: 2px solid black;
+	border-radius: 3px;
+	padding: 15px;
+}
+.header a{
+	margin-left: 35%;
+	display: inline-block;
+}
+.logged-in{
+	display: inline-block;
+}
+h4, h3{
+	margin-top: 40px;
+	margin-bottom: 15px;
+	font-weight: light;
+}
+.col-form-label, .form-control{
+	display: inline-block;
+	vertical-align: middle;
+}
+.container{
+	padding-bottom: 35px;
+}
+.eventTable{
+	width: 45%;
+	margin-top: 20px;
+}
